@@ -33,8 +33,7 @@ It trains on a toy height/weight dataset and demonstrates forward propagation, c
   - `epochs`
 - Prints cost every 20 epochs to track learning.
 
-## What I am currently doing
-## MNIST Classification
+## What I am currently doing (MNIST Classification)
 1. **Load MNIST dataset**
    ```python
    from tensorflow.keras.datasets import mnist
